@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+您 Web 项目的发布/打包进程将使用此文件。您可以通过编辑此 MSBuild 文件
+来自定义该进程的行为。若要了解与此相关的详细信息，请访问 http://go.microsoft.com/fwlink/?LinkID=208121。
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>D:\IIS\WxPay</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Castle.DynamicProxy.dll">
+      <publishTime>11/10/2014 09:37:37</publishTime>
+    </File>
+    <File Include="bin/Castle.MicroKernel.dll">
+      <publishTime>11/10/2014 09:37:37</publishTime>
+    </File>
+    <File Include="bin/Castle.Model.dll">
+      <publishTime>11/10/2014 09:37:37</publishTime>
+    </File>
+    <File Include="bin/Castle.Windsor.dll">
+      <publishTime>11/10/2014 09:37:37</publishTime>
+    </File>
+    <File Include="bin/CDM.Framework.Data.dll">
+      <publishTime>06/01/2015 17:23:58</publishTime>
+    </File>
+    <File Include="bin/CDM.Framework.dll">
+      <publishTime>06/01/2015 17:23:58</publishTime>
+    </File>
+    <File Include="bin/CDM.Pay.dll">
+      <publishTime>06/01/2015 17:23:58</publishTime>
+    </File>
+    <File Include="bin/CDM.PayCore.dll">
+      <publishTime>06/01/2015 17:23:58</publishTime>
+    </File>
+    <File Include="bin/ChnCharInfo.dll">
+      <publishTime>11/10/2014 09:37:36</publishTime>
+    </File>
+    <File Include="bin/LitJson.dll">
+      <publishTime>05/19/2014 21:40:54</publishTime>
+    </File>
+    <File Include="bin/log4net.dll">
+      <publishTime>11/10/2014 09:37:37</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Practices.EnterpriseLibrary.Common.dll">
+      <publishTime>11/10/2014 09:37:37</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Practices.EnterpriseLibrary.Data.dll">
+      <publishTime>11/10/2014 09:37:37</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Practices.ObjectBuilder.dll">
+      <publishTime>11/10/2014 09:37:37</publishTime>
+    </File>
+    <File Include="bin/MySql.Data.dll">
+      <publishTime>11/10/2014 09:37:37</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>11/10/2014 09:37:36</publishTime>
+    </File>
+    <File Include="cert/apiclient_cert.p12">
+      <publishTime>05/21/2015 16:17:11</publishTime>
+    </File>
+    <File Include="Config/Connection.config">
+      <publishTime>05/26/2015 20:54:19</publishTime>
+    </File>
+    <File Include="css/css.css">
+      <publishTime>05/28/2015 09:31:58</publishTime>
+    </File>
+    <File Include="css/reset.css">
+      <publishTime>05/26/2015 14:27:35</publishTime>
+    </File>
+    <File Include="Default.aspx">
+      <publishTime>05/26/2015 15:24:18</publishTime>
+    </File>
+    <File Include="images/icon.png">
+      <publishTime>04/22/2015 11:27:22</publishTime>
+    </File>
+    <File Include="JsApiPayPage.aspx">
+      <publishTime>05/28/2015 09:12:50</publishTime>
+    </File>
+    <File Include="PayFail.html">
+      <publishTime>06/01/2015 16:13:36</publishTime>
+    </File>
+    <File Include="PaySUCCESS.html">
+      <publishTime>06/01/2015 16:13:43</publishTime>
+    </File>
+    <File Include="ResultNotifyPage.aspx">
+      <publishTime>05/25/2015 11:26:01</publishTime>
+    </File>
+    <File Include="test.aspx">
+      <publishTime>05/28/2015 15:25:36</publishTime>
+    </File>
+    <File Include="WapPay.aspx">
+      <publishTime>05/25/2015 16:42:09</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>06/01/2015 17:24:03</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
