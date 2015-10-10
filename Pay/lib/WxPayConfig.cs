@@ -20,7 +20,7 @@ namespace Pay.lib
         */
         public const string APPID = "wx33181f92acf19537";
         public const string MCHID = "1230058102";
-        public const string KEY = "a1bcdef9gxhij8kmnho7pqastjuywxyz";
+        public const string KEY = "aa1bcdef9gxhij8kmnho7pqastjuywxyza";
         public const string APPSECRET = "1a8436b31b1a3d54799b6200856fcb73";
 
         //=======【证书路径设置】===================================== 
