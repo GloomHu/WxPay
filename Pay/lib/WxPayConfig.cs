@@ -18,10 +18,10 @@ namespace Pay.lib
         * KEY：商户支付密钥，参考开户邮件设置（必须配置）
         * APPSECRET：公众帐号secert（仅JSAPI支付的时候需要配置）
         */
-        public const string APPID = "wx33181f92acf19537";
-        public const string MCHID = "1230058102";
-        public const string KEY = "aa1bcdef9gxhij8kmnho7pqastjuywxyza";
-        public const string APPSECRET = "1a8436b31b1a3d54799b6200856fcb73";
+        public const string APPID = "**************;
+        public const string MCHID = "*************";
+        public const string KEY = "**************************";
+        public const string APPSECRET = "***********************";
 
         //=======【证书路径设置】===================================== 
         /* 证书路径,注意应该填写绝对路径（仅退款、撤销订单时需要）
